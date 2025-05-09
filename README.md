@@ -1,4 +1,5 @@
 Loan Manager
+
 This project is a Loan Manager application where users can submit loan applications through a form, and the backend processes and stores their data in a database. A dashboard dynamically displays statistics about the loan applications such as total applications, average loan amount, application success rate, etc.
 
 Tech Stack
